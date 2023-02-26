@@ -1,0 +1,164 @@
+*
+{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	font-family:Open Sans, sans-serif;
+	font-size: 14px;
+}
+.container
+
+{
+	width:85%;
+margin:auto;
+}
+
+.row
+{
+	display:flex;
+	padding:60px 40px 30px 40px;
+	background-color:;
+}
+span
+{
+	color:#106eea;
+	font-size:30px;
+
+	}
+p
+{
+	color:#777777;
+	line-height:28px;
+	
+	
+}
+
+.col{
+	
+margin:10px 30px 30px 40px;
+	
+	}
+
+
+
+a{
+	text-decoration:none;
+	padding-left:3px;
+	color:#777777;
+}
+
+.col-about ul{
+	list-style:none;
+	
+	}
+.col-web ul{
+	list-style:none;
+	
+	
+}i
+{
+	color:#106eea;
+	font-size:10px;
+	
+}
+.col-icon i{
+ font-size: 18px;
+    display: inline-block;
+    background: #106eea;
+    color: #fff;
+    line-height: 1;
+    padding: 8px 0;
+    margin-right: 4px;
+    border-radius: 4px;
+    text-align: center;
+    width: 36px;
+    height: 36px;
+    transition: 0.3s;
+}
+
+
+
+.footer
+{
+	padding-top: 1.5rem!important;
+    padding-bottom: 1.5rem!important;
+	background-color:#f6f9fe;	
+}
+
+.lasted{
+	padding-top: 1.5rem!important;
+    padding-bottom: 1.5rem!important;
+	background-color:#dde9fb;
+}
+
+.copyright{
+	text-align:center;
+	padding-right:60%;
+}
+
+.footerlast{
+	text-align: center;
+    padding-left:75%;
+	position: relative;
+    bottom: 20px;
+}
+
+.footerlast a{
+	color:#106eea;
+}
+
+
+.col-icon i:hover{
+	opacity:0.6;
+}
+
+h3
+{
+	font-size: 24px;
+    margin: 0 0 15px 0;
+    padding: 2px 0 2px 0;
+    line-height: 1;
+    font-weight: 700;
+}
+p{
+	font-size: 14px;
+    line-height: 24px;
+    margin-bottom:15px;
+    font-family: "Roboto", sans-serif;
+    color: #777777;
+}
+h4
+{
+	font-size:16px;
+    font-weight: bold;
+    color: #444444;
+    position: relative;
+    padding-bottom: 12px;
+}
+
+.col-about ul li{
+	padding-top:18px;
+}
+
+.col-web ul li{
+	padding-top:18px;
+}
+
+
+.col-icon i{
+	padding-top:10px;
+}
+.ul a:hover
+{
+	color:#106eea;
+}
+.col-address,.col-about,.col-web,.col-icon{
+	width:25%;
+	color:#777777;
+}
+.col-about a:hover{
+	color:#106eea;
+}
+.col-web a:hover{
+	color:#106eea;
+}
